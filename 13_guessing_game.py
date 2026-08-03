@@ -19,4 +19,5 @@ while secret_num != guess and not(out_of_limit):
 
 if out_of_limit:
     print("Sorry, you lost!")
+else:
     print("Congratulations, you won!")
