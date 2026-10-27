@@ -1,5 +1,3 @@
-# Guessing Number Game
-
 secret_num = 77
 guess = None
 guess_count = 0
